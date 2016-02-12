@@ -12,5 +12,10 @@ namespace ConsoleApplication1
             //test
 
         }
+
+        static void testMethod()
+        {
+
+        }
     }
 }
